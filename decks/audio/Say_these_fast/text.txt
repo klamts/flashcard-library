@@ -1,0 +1,5 @@
+const audioUrls = [
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Say_these_fast/Before%20four%2C%20fix%20the%20fifteenth%20flower%20vase.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Say_these_fast/I%20slurp%20snacks%20and%20sodas%20at%20six%20sixteen.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Say_these_fast/Meena%20makes%20many%20milkshakes%20in%20the%20morning.mp3"
+];
