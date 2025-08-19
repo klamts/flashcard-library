@@ -1,7 +1,7 @@
 const audioUrls = [
   "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20bakery%20on%20saturday.mp3",
   "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20drugstore%20on%20friday.mp3",
-  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20hospital%20on%20thirsday.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20hospital%20on%20thursday.mp3",
   "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20library%20on%20wednesday.mp3",
   "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20stadium%20on%20tuesday.mp3",
   "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/When_do_you_want_to_go_to_the/are%20you%20going%20to%20the%20swimming%20pool%20on%20sunday.mp3",
