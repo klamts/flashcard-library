@@ -1,0 +1,20 @@
+const audioUrls = [
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Bakery.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Book%20Store.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Drugstore.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Hospital.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Mall.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Movie%20Theater.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Museum.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Park.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Police%20Station.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Post%20Office.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Restaurant.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20School.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Stadium.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Supermarket.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Swimming%20Pool.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Toy%20Store.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Train%20Station.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/How/How%20can%20I%20get%20to%20the%20Zoo.mp3"
+];
