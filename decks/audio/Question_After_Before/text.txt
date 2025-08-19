@@ -1,0 +1,20 @@
+const audioUrls = [
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/A%20mother%20can%20protect%20her%20baby.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20carry%20the%20baby.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20feed%20my%20cat%20before%20breakfast.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20feed%20my%20goldfish.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20give%20my%20pet%20a%20bath.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20help%20my%20grandmother.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20help%20my%20mother%20after%20school.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20hold%20hands%20with%20my%20friend.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20hug%20my%20grandmother%20after%20breakfast.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20hug%20my%20mother.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20pick%20up%20the%20hamster.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20take%20care%20of%20my%20bird.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20take%20care%20of%20my%20brother%20before%20school.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/I%20teach%20my%20sister%20the%20ABC's.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/What%20do%20you%20do%20before%20breakfast.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/what%20do%20you%20do%20after%20breakfast.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/what%20do%20you%20do%20after%20school.mp3",
+  "https://github.com/klamts/flashcard-library/raw/refs/heads/main/decks/audio/Question_After_Before/what%20do%20you%20do%20before%20school.mp3"
+];
