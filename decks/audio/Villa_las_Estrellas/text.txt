@@ -1,0 +1,18 @@
+[
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/A%20hospital.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/A%20post%20office.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/A%20Town%20in%20Antarctica.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/About%20150%20people%20live%20there%20in%20summer.%20About%20seventy%20people%20live%20there%20in%20winter.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Antarctica%20is%20very%20cold%2C%20snowy%2C%20and%20windy.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Does%20it%20have%20a%20school.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Many%20people%20come%20to%20visit.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Nights%20are%20long%20in%20winter.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/People%20usually%20live%20in%20Antarctica%20only%20for%20the%20summer%2C%20but%20they%20live%20all%20year%20in%20Villa%20las%20Estrellas.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/The%20sun%20always%20shines%20in%20summer.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/The%20sun%20shines%20only%20four%20or%20five%20hours%20a%20day.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/The%20town%20of%20Villa%20las%20Estrellas%20has%20those%20places%2C%20too%2C%20and%20it%20is%20in%20the%20continent%20of%20Antarctica.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/They%20like%20to%20go%20to%20the%20post%20office%20and%20send%20letters%20from%20Antarctica.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Villa%20las%20Estrellas%20has%20houses%2C%20a%20bank%2C%20a%20school%2C%20a%20hospital%2C%20small%20stores%2C%20a%20post%20office%2C%20and%20a%20church.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/Villa%20las%20Estrellas.mp3",
+    "https://github.com/klamts/flashcard-library/blob/main/decks/audio/Villa_las_Estrellas/What%20is%20your%20town%20like.mp3"
+]
