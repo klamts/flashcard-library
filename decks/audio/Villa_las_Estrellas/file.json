@@ -1,0 +1,337 @@
+{
+  "title": "Villa las Estrellas: A Town in Antarctica",
+  "sentences": [
+    {
+      "text": "Villa las Estrellas",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Villa%20las%20Estrellas.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Đây là tên của một thị trấn.",
+        "word_explanations": [
+          {
+            "explanation": "Tên của một thị trấn.",
+            "word": "Villa las Estrellas"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A Town in Antarctica",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/A%20Town%20in%20Antarctica.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Đây là một thị trấn nằm ở Nam Cực.",
+        "word_explanations": [
+          {
+            "explanation": "Thị trấn nhỏ, có nhiều nhà và người ở.",
+            "word": "Town"
+          },
+          {
+            "explanation": "Một nơi rất lạnh ở cuối Trái Đất.",
+            "word": "Antarctica"
+          }
+        ]
+      }
+    },
+    {
+      "text": "What is your town like?",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/What%20is%20your%20town%20like.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Thị trấn của con trông như thế nào?",
+        "word_explanations": [
+          {
+            "explanation": "Thị trấn của con, nơi con ở.",
+            "word": "your town"
+          },
+          {
+            "explanation": "Như thế nào.",
+            "word": "like"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Does it have a school?",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Does%20it%20have%20a%20school.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Thị trấn đó có trường học không?",
+        "word_explanations": [
+          {
+            "explanation": "Trường học, nơi các bạn nhỏ đi học.",
+            "word": "school"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A post office?",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/A%20post%20office.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Có bưu điện không?",
+        "word_explanations": [
+          {
+            "explanation": "Bưu điện, nơi gửi thư và bưu phẩm.",
+            "word": "post office"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A hospital?",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/A%20hospital.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Có bệnh viện không?",
+        "word_explanations": [
+          {
+            "explanation": "Bệnh viện, nơi bác sĩ chữa bệnh cho mọi người.",
+            "word": "hospital"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The town of Villa las Estrellas has those places, too, and it is in the continent of Antarctica!",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/The%20town%20of%20Villa%20las%20Estrellas%20has%20those%20places%2C%20too%2C%20and%20it%20is%20in%20the%20continent%20of%20Antarctica.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Thị trấn Villa las Estrellas cũng có trường học, bưu điện, bệnh viện, và nó ở tận Nam Cực lạnh giá đấy!",
+        "word_explanations": [
+          {
+            "explanation": "Những nơi đó, như trường học, bưu điện, bệnh viện.",
+            "word": "those places"
+          },
+          {
+            "explanation": "Cũng có.",
+            "word": "too"
+          },
+          {
+            "explanation": "Lục địa, một vùng đất rất lớn.",
+            "word": "continent"
+          },
+          {
+            "explanation": "Nam Cực, nơi rất lạnh.",
+            "word": "Antarctica"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Antarctica is very cold, snowy, and windy.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Antarctica%20is%20very%20cold%2C%20snowy%2C%20and%20windy.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Nam Cực rất lạnh, có nhiều tuyết và gió mạnh.",
+        "word_explanations": [
+          {
+            "explanation": "Rất lạnh, lạnh cóng.",
+            "word": "very cold"
+          },
+          {
+            "explanation": "Có nhiều tuyết rơi.",
+            "word": "snowy"
+          },
+          {
+            "explanation": "Có nhiều gió thổi mạnh.",
+            "word": "windy"
+          }
+        ]
+      }
+    },
+    {
+      "text": "People usually live in Antarctica only for the summer, but they live all year in Villa las Estrellas.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/People%20usually%20live%20in%20Antarctica%20only%20for%20the%20summer%2C%20but%20they%20live%20all%20year%20in%20Villa%20las%20Estrellas.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Mọi người thường chỉ ở Nam Cực vào mùa hè, nhưng ở Villa las Estrellas thì họ sống cả năm luôn.",
+        "word_explanations": [
+          {
+            "explanation": "Thường thì, hay làm.",
+            "word": "usually"
+          },
+          {
+            "explanation": "Sống, ở.",
+            "word": "live"
+          },
+          {
+            "explanation": "Chỉ vào mùa hè.",
+            "word": "only for the summer"
+          },
+          {
+            "explanation": "Cả năm, không nghỉ.",
+            "word": "all year"
+          }
+        ]
+      }
+    },
+    {
+      "text": "About 150 people live there in summer.About seventy people live there in winter.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/About%20150%20people%20live%20there%20in%20summer.%20About%20seventy%20people%20live%20there%20in%20winter.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Khoảng 150 người sống ở đó vào mùa hè. Khoảng 70 người sống ở đó vào mùa đông.",
+        "word_explanations": [
+          {
+            "explanation": "Khoảng 150 người, không phải chính xác.",
+            "word": "About 150"
+          },
+          {
+            "explanation": "Người, mọi người.",
+            "word": "people"
+          },
+          {
+            "explanation": "Mùa hè, mùa nóng.",
+            "word": "summer"
+          },
+          {
+            "explanation": "Khoảng 70 người.",
+            "word": "About seventy"
+          },
+          {
+            "explanation": "Mùa đông, mùa lạnh có tuyết.",
+            "word": "winter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Nights are long in winter.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Nights%20are%20long%20in%20winter.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Vào mùa đông, ban đêm rất dài.",
+        "word_explanations": [
+          {
+            "explanation": "Buổi đêm, khi trời tối.",
+            "word": "Nights"
+          },
+          {
+            "explanation": "Dài, kéo dài.",
+            "word": "long"
+          },
+          {
+            "explanation": "Vào mùa đông.",
+            "word": "in winter"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The sun shines only four or five hours a day.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/The%20sun%20shines%20only%20four%20or%20five%20hours%20a%20day.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Mặt trời chỉ chiếu sáng khoảng 4 hoặc 5 tiếng mỗi ngày thôi.",
+        "word_explanations": [
+          {
+            "explanation": "Mặt trời, ngôi sao lớn tỏa sáng.",
+            "word": "sun"
+          },
+          {
+            "explanation": "Chiếu sáng, tỏa ra ánh sáng.",
+            "word": "shines"
+          },
+          {
+            "explanation": "Chỉ, không hơn.",
+            "word": "only"
+          },
+          {
+            "explanation": "Giờ, đơn vị đo thời gian.",
+            "word": "hours"
+          },
+          {
+            "explanation": "Mỗi ngày.",
+            "word": "a day"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The sun always shines in summer.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/The%20sun%20always%20shines%20in%20summer.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Vào mùa hè, mặt trời luôn chiếu sáng.",
+        "word_explanations": [
+          {
+            "explanation": "Luôn luôn, lúc nào cũng vậy.",
+            "word": "always"
+          },
+          {
+            "explanation": "Vào mùa hè.",
+            "word": "in summer"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Villa las Estrellas has houses, a bank, a school, a hospital, small stores, a post office, and a church.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Villa%20las%20Estrellas%20has%20houses%2C%20a%20bank%2C%20a%20school%2C%20a%20hospital%2C%20small%20stores%2C%20a%20post%20office%2C%20and%20a%20church.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Thị trấn Villa las Estrellas có nhà cửa, ngân hàng, trường học, bệnh viện, cửa hàng nhỏ, bưu điện và nhà thờ.",
+        "word_explanations": [
+          {
+            "explanation": "Những ngôi nhà để ở.",
+            "word": "houses"
+          },
+          {
+            "explanation": "Ngân hàng, nơi cất tiền.",
+            "word": "bank"
+          },
+          {
+            "explanation": "Trường học.",
+            "word": "school"
+          },
+          {
+            "explanation": "Bệnh viện.",
+            "word": "hospital"
+          },
+          {
+            "explanation": "Những cửa hàng nhỏ để mua đồ.",
+            "word": "small stores"
+          },
+          {
+            "explanation": "Bưu điện.",
+            "word": "post office"
+          },
+          {
+            "explanation": "Nhà thờ, nơi mọi người đến cầu nguyện.",
+            "word": "church"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Many people come to visit.",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/Many%20people%20come%20to%20visit.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Rất nhiều người đến thăm thị trấn này.",
+        "word_explanations": [
+          {
+            "explanation": "Nhiều người, rất đông.",
+            "word": "Many people"
+          },
+          {
+            "explanation": "Đến thăm, đến chơi.",
+            "word": "come to visit"
+          }
+        ]
+      }
+    },
+    {
+      "text": "They like to go to the post office and send letters from Antarctica!",
+      "audioUrl": "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/Villa_las_Estrellas/They%20like%20to%20go%20to%20the%20post%20office%20and%20send%20letters%20from%20Antarctica.mp3",
+      "explanation_vi": {
+        "sentence_explanation": "Họ thích đến bưu điện và gửi thư từ Nam Cực đi khắp nơi!",
+        "word_explanations": [
+          {
+            "explanation": "Thích đi đến.",
+            "word": "like to go"
+          },
+          {
+            "explanation": "Bưu điện.",
+            "word": "post office"
+          },
+          {
+            "explanation": "Gửi thư, gửi những lá thư.",
+            "word": "send letters"
+          },
+          {
+            "explanation": "Từ Nam Cực.",
+            "word": "from Antarctica"
+          }
+        ]
+      }
+    }
+  ]
+}
