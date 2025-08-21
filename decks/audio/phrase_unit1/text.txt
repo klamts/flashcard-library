@@ -1,0 +1,23 @@
+[
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/More%20than%20fifteen%20hours%20a%20day.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/all%20over.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/at%20midnight.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/at%20night.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/at%20noon.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/away%20from.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/during%20the%20day.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/for%208%20hours.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/from%20Spain.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/from%20northern%20Africa.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/in%20a%20room.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/in%20a%20tent.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/in%20its%20mother's%20pouch.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/in%20the%20daytime.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/in%20the%20morning.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/on%20the%20floor.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/on%20the%20ground.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/on%20the%20sofa.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/over.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/the%20same%20way-2.mp3",
+  "https://raw.githubusercontent.com/klamts/flashcard-library/main/decks/audio/phrase_unit1/the%20same%20way.mp3"
+]
