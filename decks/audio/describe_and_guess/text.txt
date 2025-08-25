@@ -1,15 +1,15 @@
 [
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20bakery.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20drugstore.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20hospital..mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20museum.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20park.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20police%20station.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20post%20office.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20restaurant.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20supermarket..mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20toy%20store.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%27s%20a%20train%20station.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20bakery.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20drugstore.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20hospital..mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20museum.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20park.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20police%20station.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20post%20office.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20restaurant.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20supermarket..mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20toy%20store.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/It%E2%80%99s%20a%20train%20station.mp3",
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20buy%20bread%20and%20cakes%20here.mp3",
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20buy%20food%20and%20drinks%20here.mp3",
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20buy%20toys%20here.mp3",
@@ -22,5 +22,5 @@
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20send%20letters%20here.mp3",
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20take%20a%20train%20here.mp3",
   "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/You%20can%20watch%20movies%20here.mp3",
-  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/t%27s%20a%20movie%20theater.mp3"
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/describe_and_guess/t%E2%80%99s%20a%20movie%20theater.mp3"
 ]
