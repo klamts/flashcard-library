@@ -1,0 +1,14 @@
+[
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/place%20a%20bakery.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20drugstore.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20hospital.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20movie%20theater.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20museum.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20park.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20police%20station.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20post%20office.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20restaurant.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20supermarket.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20toy%20store.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/a%20train%20station.mp3"
+]
