@@ -1,0 +1,19 @@
+[
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/Bill%20is%20my%20dad's%20dad%20and%20he's%2084.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/Clara's%20husband%20is%20Mark.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/Clara's%20my%20aunt%20and%20Mark's%20my%20uncle.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/He's%20very%20funny.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/I'm%20Joe%20and%20I'm%20twelve%20years%20old.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/I've%20got%20one%20brother%20and%20one%20sister.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/It's%20enormous%20and%20we%20go%20there%20in%20the%20summer.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/My%20brother%20is%20fourteen%20and%20his%20name's%20Ben%20and%20my%20sister%20is%20ten%20and%20her%20name's%20Erin.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/My%20dad%20hasn't%20got%20any%20brothers%20or%20sisters%20but%20my%20mum's%20got%20a%20sister%20called%20Clara.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/My%20grandmother%20Betty%20and%20grandfather%20Frank%20are%20my%20mum's%20parents..mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/My%20mum%20and%20dad%20are%20Lucy%20and%20Mike.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/My%20sister%20is%20very%20annoying.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/They're%2040.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/They're%20both%2088%20and%20they're%20Irish.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/They're%20my%20cousins%20and%20their%20names%20are%20Alfie,%20Charlie%20and%20Katie.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/They've%20got%20a%20house%20in%20Ireland.mp3",
+  "https://github.com/klamts/flashcard-library/raw/main/decks/audio/families/They've%20got%20three%20children.mp3"
+]
