@@ -1,0 +1,40 @@
+[
+
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/I'm%20Amy%20.%20I'm%20not%20Eve.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/I'm%20not%20from%20England.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/You're%20happy.%20Are%20you%20Polly.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/He's%20from%20Boston.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/She's%20a%20teacher.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/It's%20cold%20today.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/We're%20Brazilian.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/We're%20happy.mp3",
+ 	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/We're%20students.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/They're%20at%20cinema.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/They're%20twelve.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/The%20new%20boy%20in%20my%20class%20is%20Spanish.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Jack's%20at%20school.%20Max%20isn't%20in%20my%20class.mp3",
+ 	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Matt%20isn't%20at%20school%20today.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Are%20your%20parents%20teachers.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Billy%20and%20Liam%20aren't%20from%20LonDon.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Is%20Lisa%20okay.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/be/Is%20he%20the%20new%20teacher.mp3",
+  
+  
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/I've%20got%20three%20brothers.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/I've%20got%20two%20brothers.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/I%20haven't%20got%20any%20cousins.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/Lida's%20got%20four%20sisters,%20but%20she%20hasn't%20got%20a%20brother.mp3",
+ 	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/Harry's%20got%20two%20cousins.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/My%20parents%20haven't%20got%20a%20car.mp3",
+	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/We%20haven%E2%80%99t%20got%20a%20computer.mp3"
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/Has%20Esther%20got%20a%20sister.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/Have%20you%20got%20a%20mobile%20phone.mp3",
+  	"https://github.com/klamts/flashcard-library/raw/main/decks/audio/be_have_got/have_got/Have%20you%20got%20any%20brothers%20or%20sisters.mp3",
+
+  
+  
+  
+  
+  
+  
+]
